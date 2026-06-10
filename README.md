@@ -1,2 +1,2 @@
 # Visual-Cryptography
-this repository contains my projects working with Visual Cryptography Schemes (VCS), which I will upload here. 
+this repository contains my project working with Visual Cryptography Schemes (VCS).
